@@ -1,0 +1,13 @@
+{
+  "name": "jackle500/329/diner",
+  "description": "My MVC Diner Application",
+  "authors": [
+    {
+      "name": "Huy Le",
+      "email": "huy.le@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosa/fatfree-core": "dev-master"
+  }
+}
